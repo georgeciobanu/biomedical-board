@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelPortDriver", "ParallelPortDriver\ParallelPortDriver.csproj", "{D09E1A7A-DFD1-4104-B426-C4818055BCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialBoard", "SerialBoardDriver\SerialBoard.csproj", "{8BF26DCD-2B7A-4B09-B3DA-69CC8F3906C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pneumatic_library", "Pneumatic_library\Pneumatic_library.csproj", "{4012B14D-461C-4774-9D79-C295952F935A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluidics_Chip", "Fluidics_Chip\Fluidics_Chip.csproj", "{6B680011-4B8D-4CDF-B9DC-7FB97FBA7FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09E1A7A-DFD1-4104-B426-C4818055BCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09E1A7A-DFD1-4104-B426-C4818055BCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09E1A7A-DFD1-4104-B426-C4818055BCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09E1A7A-DFD1-4104-B426-C4818055BCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF26DCD-2B7A-4B09-B3DA-69CC8F3906C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF26DCD-2B7A-4B09-B3DA-69CC8F3906C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF26DCD-2B7A-4B09-B3DA-69CC8F3906C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF26DCD-2B7A-4B09-B3DA-69CC8F3906C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4012B14D-461C-4774-9D79-C295952F935A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4012B14D-461C-4774-9D79-C295952F935A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4012B14D-461C-4774-9D79-C295952F935A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4012B14D-461C-4774-9D79-C295952F935A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B680011-4B8D-4CDF-B9DC-7FB97FBA7FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B680011-4B8D-4CDF-B9DC-7FB97FBA7FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B680011-4B8D-4CDF-B9DC-7FB97FBA7FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B680011-4B8D-4CDF-B9DC-7FB97FBA7FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

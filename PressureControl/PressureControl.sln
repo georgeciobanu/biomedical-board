@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressureControl", "PressureControl\PressureControl.csproj", "{D3F8DCB2-1E52-4672-BC09-19C9AB246AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F8DCB2-1E52-4672-BC09-19C9AB246AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F8DCB2-1E52-4672-BC09-19C9AB246AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F8DCB2-1E52-4672-BC09-19C9AB246AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F8DCB2-1E52-4672-BC09-19C9AB246AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
